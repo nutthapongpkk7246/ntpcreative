@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ntpcreative.vercel.app/sitemap.xml
