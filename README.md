@@ -15,3 +15,5 @@ Static production website for NTP Creative Studio.
 
 ## Deploy
 Import this repository into the existing Vercel project `ntpcreative` and deploy as a static project. No serverless functions are required.
+
+Vercel Git connected
